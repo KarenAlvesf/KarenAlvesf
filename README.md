@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @KarenAlvesf
+- 👀 I’m interested in Front-end and Mobile(Android) Development
+- 🌱 I’m currently studying Software Engineering
