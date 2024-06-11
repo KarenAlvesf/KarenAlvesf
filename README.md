@@ -1,6 +1,6 @@
-- 👋 Hi, I’m KarenAlvesf
-- 👀 I’m interested in Front-end and Mobile(Android) Development
-- 🌱 I’m currently studying Software Engineering
+- 👋 Hi, I’m Karen Alves!
+- 👀 I’m interested in Front-end and Android Mobile Development
+- 🌱 I’m currently studying Software Engineering at Instituto Federal do Amazonas
 
 ##
 
