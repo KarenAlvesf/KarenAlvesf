@@ -19,7 +19,7 @@
   🚗 Interested in Embedded Android and Android Automotive<br>
   🌎 Open to international opportunities
 </p>
-<hr>
+<img src=".github/assets/divider.svg" width="100%" height="1" alt="" />
 
 <div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="60" alt="android logo"  />
