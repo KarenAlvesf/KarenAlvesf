@@ -1,6 +1,25 @@
-<h1 data-importer="text" align="center">Hey 👋 What's up?</h1>
+<h1 data-importer="text" align="center">Hey, I'm Karen 👋</h1>
 
 ###
+<p align="center">
+  Software Engineer based in Brazil 🇧🇷
+</p>
+
+<p align="center">
+  I currently work with <b>Android Framework / SystemUI</b>, debugging system-level issues and implementing features at the Android platform level.
+</p>
+
+<p align="center">
+  My main interests are <b>Android Platform, Embedded Systems, and Automotive Software</b>.
+</p>
+
+<p align="center">
+  🔍 Experience investigating ANRs, CTS failures, and Android system-level issues<br>
+  ⚙️ Currently improving my hard skills<br>
+  🚗 Interested in Embedded Android and Android Automotive<br>
+  🌎 Open to international opportunities
+</p>
+<hr>
 
 <div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="60" alt="android logo"  />
